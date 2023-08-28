@@ -6,4 +6,4 @@
 
 | 목록 | URL |
 | ------ | ------ |
-| Singleton | https://github.com/ehrldyd15/Swift_Skills/wiki/[Pattern]Singleton|
+| Singleton | https://github.com/rlaxogus0522/Design_Patterns/wiki/%5BPattern%5D-Singleton|
