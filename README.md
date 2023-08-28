@@ -3,8 +3,8 @@
 
 # 학습 리스트업 in WiKi
 
-
-| Wiki 이동 |  
-ㄴ [Singleton](https://github.com/rlaxogus0522/Design_Patterns/wiki/%5BPattern%5D-Singleton)  
-ㄴ [Decorator](https://github.com/rlaxogus0522/Design_Patterns/wiki/%5BPattern%5D-Decorator)  
-ㄴ [Observer](https://github.com/rlaxogus0522/Design_Patterns/wiki/%5BPattern%5D-Observer)
+| 목록 | Wiki 이동 |
+| ------ | ------ |
+| 싱글톤 패턴 | [Going to see Singleton on Wiki](https://github.com/rlaxogus0522/Design_Patterns/wiki/%5BPattern%5D-Singleton) |
+| 데코레이터 패턴 | [Going to see Decorator on Wiki](https://github.com/rlaxogus0522/Design_Patterns/wiki/%5BPattern%5D-Decorator) |
+| 옵저버 패턴 | [Going to see Observer on Wiki](https://github.com/rlaxogus0522/Design_Patterns/wiki/%5BPattern%5D-Observer) |
